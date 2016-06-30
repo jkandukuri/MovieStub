@@ -1,0 +1,14 @@
+{
+  "name": "moviestub",
+  "version": "0.0.1",
+  "description": "Book Movie tickets online",
+  "main": "index.js",
+  "scripts": {
+    "test": "no test specified \"&& exit 1\""
+  },
+  "author": "janaki",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
+}
